@@ -5,7 +5,7 @@
 
 ## Idioma / Language
 
-[Português](README.md) | [English](README_EN.md)
+[Português](README_PT.md) | [English](README_EN.md)
 
 <!-- O resto do README será o mesmo para ambos os idiomas -->
 
