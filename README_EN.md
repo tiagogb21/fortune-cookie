@@ -1,6 +1,16 @@
-**README_EN.md (Inglês):**
+[back](README.md)
 
 # Fortune Cookie
+
+## Technologies Used
+
+The Fortune Cookie application uses the following technologies:
+
+- React
+- Styled Components
+- HTML
+- CSS
+- JavaScript
 
 ## Overview
 
@@ -46,7 +56,8 @@ We welcome contributions from the community to improve Fortune Cookie. To contri
 <li>Please ensure that you adhere to our Code of Conduct when contributing.</li>
 </ol>
 
-License
+##License
+
 Fortune Cookie is open-source software licensed under the MIT license.
 
 Thank you for checking out Fortune Cookie! We hope you find joy and inspiration in the messages it delivers. If you encounter any issues or have suggestions for improvements, feel free to open an issue or submit a pull request. Happy coding! 

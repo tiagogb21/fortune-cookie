@@ -1,4 +1,15 @@
-[voltar](README_PT.md)
+[voltar](README.md)
+
+## Tecnologias Utilizadas
+
+A aplicação Fortune Cookie utiliza as seguintes tecnologias:
+
+- React
+- Styled Components
+- HTML
+- CSS
+- JavaScript
+
 
 ## Instalação
 
