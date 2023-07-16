@@ -1,20 +1,10 @@
 **README_EN.md (Inglês):**
 
-```markdown
 # Fortune Cookie
-
-[![License](https://img.shields.io/github/license/tiagogb21/fortune-cookie)](https://github.com/tiagogb21/fortune-cookie/blob/main/LICENSE)
-
-## Language
-
-- [Português](README.md)
-- [English](README_EN.md)
 
 ## Overview
 
 Fortune Cookie is a simple and fun project that delivers random fortune cookie messages. The idea is to provide users with a touch of wisdom and humor in their day-to-day development journey.
-
-![Fortune Cookie](fortune_cookie.png)
 
 ## Installation
 
@@ -34,20 +24,27 @@ npm start
 
 This will launch the application, and you can access it by opening your web browser and navigating to http://localhost:3000.
 
-Features
-Random Fortune Messages: Enjoy a variety of random fortune cookie messages with each page refresh.
-Share Fortune: Spread the joy by sharing your favorite fortunes on social media.
-Mobile Responsive: Fortune Cookie is fully responsive and optimized for a seamless mobile experience.
-Customization: Easily customize the appearance and behavior of the Fortune Cookie application.
-Contributing
+## Features
+
+<ol>
+<li><strong>Random Fortune Messages</strong>: Enjoy a variety of random fortune cookie messages with each page refresh.</li>
+<li><strong>Share Fortune</strong>: Spread the joy by sharing your favorite fortunes on social media.</li>
+<li><strong>Mobile Responsive</strong>: Fortune Cookie is fully responsive and optimized for a seamless mobile experience.</li>
+<li><strong>Customization</strong>: Easily customize the appearance and behavior of the Fortune Cookie application.</li>
+</ol>
+
+##Contributing
+
 We welcome contributions from the community to improve Fortune Cookie. To contribute, please follow these steps:
 
-Fork the repository.
-Create a new branch for your feature or bug fix: git checkout -b feature-name.
-Make the necessary changes and commit them: git commit -m "Add feature or fix"
-Push your changes to the branch: git push origin feature-name.
-Open a Pull Request in this repository.
-Please ensure that you adhere to our Code of Conduct when contributing.
+<ol>
+<li>Fork the repository.</li>
+<li>Create a new branch for your feature or bug fix: git checkout -b feature-name.</li>
+<li>Make the necessary changes and commit them: git commit -m "Add feature or fix"</li>
+<li>Push your changes to the branch: git push origin feature-name.</li>
+<li>Open a Pull Request in this repository.</li>
+<li>Please ensure that you adhere to our Code of Conduct when contributing.</li>
+</ol>
 
 License
 Fortune Cookie is open-source software licensed under the MIT license.

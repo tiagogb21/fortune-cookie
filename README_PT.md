@@ -1,3 +1,5 @@
+[voltar](README_PT.md)
+
 ## Instalação
 
 Para começar com o Fortune Cookie, siga estes passos:
